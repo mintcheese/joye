@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '刘祎祎个人网页',
-  domain: 'liuyiyi.xyz',
+  domain: 'https://liuyiyi.notion.site/liuyiyi/bf8177d468cb4b2f914e350e34c6a332',
   author: '刘祎祎',
 
   // open graph metadata (optional)
